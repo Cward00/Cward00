@@ -12,7 +12,7 @@
 
 | Project | What it is | Tech | Status |
 | :--- | :--- | :--- | :--- |
-| 🧠 [Build-My-Own-LLM](https://github.com/Cward00) | A small GPT-style language model built from scratch | Python, PyTorch | In progress |
+| 🐍 [Python-Choice-Game](https://github.com/Cward00/Python-choice-game-with-images) | An interactive decision-making game utilizing custom image assets | Python | Completed |
 | 🏦 [Java-Banking-System](https://github.com/Cward00/Java-Banking-System) | Object-oriented banking application with robust data structures | Java | Completed |
 | 📚 [Library-Management-System](https://github.com/Cward00/Library-Management-System) | Feature-rich application featuring OOP design and filtering | Python, SQLite | Completed |
 
@@ -21,7 +21,7 @@
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,cpp,git,github,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,github,vscode" />
 </p>
 
 ---
@@ -32,18 +32,36 @@
 <tr>
 <td width="50%" valign="top">
 
+#### 📚 [Library Management System](https://github.com/Cward00/Library-Management-System)
+A full-featured application built with Python and SQLite. Engineered with a robust object-oriented programming (OOP) architecture, it handles dynamic book filtering, user recommendations, and database management through a clean terminal UI.
+<br><br>
+<code>Python</code> <code>SQLite</code> <code>OOP</code>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐍 [Python Choice Game](https://github.com/Cward00/Python-choice-game-with-images)
+An interactive decision-making narrative game utilizing custom image assets. Designed around structured control flows, state management, and modular software logic to deliver an engaging user experience.
+<br><br>
+<code>Python</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 🌐 [COM109 Group Coursework](https://github.com/Cward00/COM109-Grp10-coursework)
-Collaborative software engineering coursework built alongside university peers within the Ulster University Computing Society.
+Collaborative software engineering coursework built alongside university peers within the Ulster University Computing Society. Focuses on semantic markup, responsive design principles, and collaborative version control workflows.
 <br><br>
 <code>HTML</code> <code>CSS</code> <code>Git</code>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🐍 [Python Choice Game](https://github.com/Cward00/Python-choice-game-with-images)
-An interactive decision-making game utilizing custom image assets, structured logic, and clean control flows.
+#### 🏦 [Java Banking System](https://github.com/Cward00/Java-Banking-System)
+An object-oriented banking application focused on secure data structures, encapsulation, and transaction logic. Designed to handle account operations, balance tracking, and reliable data state management.
 <br><br>
-<code>Python</code>
+<code>Java</code>
 
 </td>
 </tr>
@@ -51,7 +69,5 @@ An interactive decision-making game utilizing custom image assets, structured lo
 
 ---
 
-```markdown
-<p align="center">
-  <code>$ echo "thanks for visiting" — open to placement opportunities_</code>
-</p>
+
+                                        Thank you for visiting — I am open to placement opportunities
