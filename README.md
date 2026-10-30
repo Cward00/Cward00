@@ -14,7 +14,7 @@
 | :--- | :--- | :--- | :--- |
 | 🐍 [Python-Choice-Game](https://github.com/Cward00/Python-choice-game-with-images) | An interactive decision-making game utilizing custom image assets | Python | Completed |
 | 🏦 [Java-Banking-System](https://github.com/Cward00/Java-Banking-System) | Object-oriented banking application with robust data structures | Java | Completed |
-| 📚 [Library-Management-System](https://github.com/Cward00/Library-Management-System) | Feature-rich application featuring OOP design and filtering | Python, SQLite | Completed |
+| 📚 [Library-Management-System](https://github.com/Cward00/Library-Management-System) | Feature-rich application featuring OOP design and filtering | Python, SQL | Completed |
 
 ---
 
@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 
 #### 📚 [Library Management System](https://github.com/Cward00/Library-Management-System)
-A full-featured application built with Python and SQLite. Engineered with a robust object-oriented programming (OOP) architecture, it handles dynamic book filtering, user recommendations, and database management through a clean terminal UI.
+A full-featured application built with Python and SQLite. Engineered with a robust object-oriented programming architecture, handling dynamic book filtering, user recommendations, and database management through a clean terminal UI.
 <br><br>
 <code>Python</code> <code>SQLite</code> <code>OOP</code>
 
