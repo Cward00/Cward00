@@ -67,7 +67,5 @@ An object-oriented banking application focused on secure data structures, encaps
 </tr>
 </table>
 
----
-
 
                                 Thank you for visiting — I am open to placement opportunities
