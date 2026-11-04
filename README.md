@@ -3,8 +3,8 @@
 * 🎓 **Year 2 BSc Software Engineering** student at **Ulster University**
 * 💼 Looking for a **2027/28 industrial placement**, starting Summer/Autumn 2027
 * 💻 Passionate about **Software Development**, data structures, and automation
-* ⚽ Plays Gaelic football as a defender for Cookstown Fr. Rocks GAA (County Champions)
-* 🚀 Background in industrial manufacturing operations, factory IT infrastructure, and team leadership
+* ⚽ Plays Gaelic football for Cookstown Fr. Rocks GAA (County Champions)
+* 🚀 Background in industrial manufacturing operations, factory IT infrastructure, and vastly experienced in team environments
 
 ---
 
